@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xml:lang="ja" prefix="ebpaj: http://www.ebpaj.jp/ rendition: http://www.idpf.org/vocab/rendition/# access: http://www.access-company.com/2012/layout#" version="3.0" unique-identifier="unique-id">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<!--タイトル-->
+<dc:title id="title">死にゆく蝉は夢を見るか</dc:title>
+<!--著者-->
+<dc:creator id="creator00">上</dc:creator>
+<meta refines="#creator00" scheme="marc:relators" property="role">aut</meta>
+<meta refines="#creator00" property="display-seq">0</meta>
+<!--出版社-->
+<dc:publisher id="publisher">@find_u_ku323</dc:publisher>
+<!--言語-->
+<dc:language>ja</dc:language>
+<!--固有ID-->
+<dc:identifier id="unique-id">0057aa5c-d379-4880-b591-12d717c64762</dc:identifier>
+<!--更新日-->
+<meta property="dcterms:modified">2020-06-23T10:47:27Z</meta>
+<!--作成ツール-->
+<meta name="generator" content="relog LeME 0.35.0"/>
+<meta property="rendition:spread">landscape</meta>
+</metadata>
+<manifest>
+<!--navigation-->
+<item media-type="application/xhtml+xml" href="navigation-documents.xhtml" properties="nav" id="toc"/>
+<!--style-->
+<item media-type="text/css" href="style/book-style-prepaginated.css" id="book-style-prepaginated"/>
+<item media-type="text/css" href="style/book-style.css" id="book-style"/>
+<item media-type="text/css" href="style/style-advance.css" id="style-advance"/>
+<item media-type="text/css" href="style/style-leme.css" id="style-leme"/>
+<item media-type="text/css" href="style/style-reset.css" id="style-reset"/>
+<item media-type="text/css" href="style/style-standard.css" id="style-standard"/>
+<!--image-->
+<item media-type="image/jpeg" href="image/image-0001.jpg" id="image-0001"/>
+<!--audio-->
+<!--video-->
+<!--xhtml-->
+<item media-type="application/xhtml+xml" href="xhtml/p-0001.xhtml" id="p-0001"/>
+<item media-type="application/xhtml+xml" href="xhtml/p-endcard.xhtml" properties="svg" id="p-endcard"/>
+</manifest>
+<spine page-progression-direction="rtl">
+<itemref idref="p-0001" linear="yes"/>
+<itemref idref="p-endcard" properties="rendition:layout-pre-paginated rendition:spread-none" linear="yes"/>
+</spine>
+</package>
