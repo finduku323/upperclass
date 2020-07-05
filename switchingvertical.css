@@ -181,7 +181,7 @@ h1{
 
 @media (max-width: 4000px) {
   .c-txtsp{ 
-    font: 2em/1.6 serif;
+    font: 1.5em/1.6 serif;
     margin-left: 130px;
     overflow: scroll;
     -ms-writing-mode: tb-rl;
