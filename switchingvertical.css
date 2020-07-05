@@ -186,6 +186,7 @@ h1{
     overflow: scroll;
     -ms-writing-mode: tb-rl;
     writing-mode: vertical-rl;
+    -webkit-text-orientation: upright;
     text-orientation: upright;
     column-count: 2;
     column-rule: solid 1px #ccc;
@@ -201,6 +202,7 @@ h1{
      overflow: scroll;
      -ms-writing-mode: tb-rl;
      writing-mode: vertical-rl;
+     -webkit-text-orientation: upright;
      text-orientation: upright;
      column-count: 2;
      column-rule: solid 1px #ccc;
