@@ -183,6 +183,14 @@ h1{
   .c-txtsp{ 
     font: 2em/1.6 serif;
     margin-left: 130px;
+    overflow: scroll;
+    -ms-writing-mode: tb-rl;
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    column-count: 2;
+    column-rule: solid 1px #ccc;
+    column-gap: 2rem;
+    width: 70vw;
   }
 }
 
@@ -190,6 +198,14 @@ h1{
   .c-txtsp{
      font: 2em/1.6 serif; 
      margin-left: 50px;
+     overflow: scroll;
+     -ms-writing-mode: tb-rl;
+     writing-mode: vertical-rl;
+     text-orientation: upright;
+     column-count: 2;
+     column-rule: solid 1px #ccc;
+     column-gap: 2rem;
+     width: 70vw;
     }
 }
 
@@ -197,6 +213,14 @@ h1{
   .c-txtsp{
      font: 1.1em/1.6 serif; 
      margin-left: 0px;
+     overflow: scroll;
+     -ms-writing-mode: tb-rl;
+     writing-mode: vertical-rl;
+     text-orientation: upright;
+     column-count: 2;
+     column-rule: solid 1px #ccc;
+     column-gap: 2rem;
+     width: 70vw;
     }
 }
 
