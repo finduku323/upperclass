@@ -226,7 +226,7 @@ h1{
 }
 
 .c-txtsp{
-  overflow: auto;
+  overflow: scroll;
   -ms-writing-mode: tb-rl;
   writing-mode: vertical-rl;
   text-orientation: upright;
