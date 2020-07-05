@@ -209,7 +209,7 @@ h1{
 
 @media (max-width: 675px) {
   .c-txtsp{
-     font: 0.9em/1. serif; 
+     font: 0.9em/1.4 serif; 
      margin-left: -20px;
      overflow: scroll;
      -ms-writing-mode: tb-rl;
