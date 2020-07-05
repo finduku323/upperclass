@@ -232,7 +232,7 @@ h1{
   text-orientation: upright;
   column-count: 2;
   column-rule: solid 1px #ccc;
-  column-gap: 2.5rem;
+  column-gap: 1.3rem;
   width: 70vw;
 }
 
