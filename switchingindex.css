@@ -226,7 +226,8 @@ h1{
 }
 
 .c-txtsp{
-  overflow: scroll;
+  overflow-y: scroll;
+  overflow-x: hidden;
   -ms-writing-mode: tb-rl;
   writing-mode: vertical-rl;
   column-fill: auto;
